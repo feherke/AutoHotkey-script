@@ -1,0 +1,19 @@
+0.0 - February 2013
+  [+] Initial release.
+
+0.1 - February 2013
+  [*] Separated the hotstring list into 3 modes : None, Primary, Secondary.
+  [+] Key Ctrl-F2 to change the mode.
+
+0.2 - February 2013
+  [*] Moved the hotstring definitions into a configuration file.
+  [+] New menu command Edit compose....
+  [*] Key Alt-Ctrl-F2 to change the mode.
+  [+] Key Alt-Ctrl-Shift-F2 to change the mode backward.
+
+0.3 - July 2013
+  [+] Key Shift-Shift to cancel a compose.
+
+
+
+( Legend : [+] added, [-] removed, [*] changed, [!] fixed )

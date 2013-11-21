@@ -1,0 +1,12 @@
+= AutoHokey Script
+
+The [[http://autohotkey.com/|AutoHotkey]] interpreter is the most useful automation tool I met for Windows. Although a huge number of scripts and code snippets can be
+found in the [[http://autohotkey.com/board/forum/49-scripts/|AutoHotkey Community forum's Scripts]] section, I still felt that I need something different. So I wrote some.
+
+This repository contains a collection of scripts, each directory contains one script and the related files.
+
+Here are some scripts I wrote.
+
+* **Key Compose** - Key compose without compose key and key combination.
+
+These scripts were intentionally kept short. For details see the [[http://feherke.github.io/autohotkey/|AutoHotkey section of my site]].
